@@ -7,9 +7,9 @@ The following programs implement various transform an spatial filters on TIFF im
 * Min Filter
 * Max Filter
 * Mean Filte
-* Median Filter  
+* Median Filter
 * Average Filter
-* Laplacican Fil
+* Laplacican Filter
 * Sobel Horz & Vert Filter
 * Robert's Cross Gradient Filter
 
