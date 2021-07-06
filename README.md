@@ -48,8 +48,8 @@ To use transform filters run:-
 
 Input image
 
-![input](./lena50.tif)
+![input](./readme-img/lena50.jpg)
 
 Output image after fourier transformation
 
-![output](./lena50.tiff)
+![output](./readme-img/out.jpg)
